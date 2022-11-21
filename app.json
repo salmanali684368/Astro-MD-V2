@@ -54,12 +54,12 @@
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "★彡[ɪᴛ'ꜱ ᴍᴇ ꜱᴀʟᴍᴀɴ]彡★〽️"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+923165860765"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
@@ -94,7 +94,11 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 ۝⃟̥̩̩̩̥̩̥͚̮🌹⃝⃘̉̉̉̉̉𝙎𝙖𝙡𝙢𝙖𝙣 ➤⃟̱̱̱̱̄̄̄̄🦋⃝ 𝙆𝙝𝙖𝙣❉⃟  ᷱ ⷪ ⷢ ᷝ ͩ
+
+۝⃟̥̩̩̩̥̩➤⃟̱̱̱̱̄̄𝙎𝙖𝙡𝙢𝙖𝙣 𝙆𝙝𝙖𝙣❉⃟2013  ᷱ ⷪ ⷢ ᷝ ͩ
+
+۝⃟̥̩̩̩̥̩20➤⃟̱̱̱̱̄̄13❉⃟  ᷱ ⷪ ⷢ ᷝ ͩ*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
